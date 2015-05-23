@@ -1,0 +1,17 @@
+.deps/
+.libs/
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.*
+configure
+depcomp
+install-sh
+libtool
+*.la
+ltmain.sh
+missing
+*.lo
+stamp-*
