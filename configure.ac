@@ -28,6 +28,6 @@ AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_FILES([Makefile])
 
 dnl XXX pretty horrid
-libdir='${exec_prefix}'/lib/sasl2
+libdir=$libdir/sasl2
 
 AC_OUTPUT
